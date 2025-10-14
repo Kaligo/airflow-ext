@@ -52,7 +52,6 @@ class Airflow(ExtensionBase):
             *command_args: The arguments that would be passed (unused).
         """
         self._create_config()
-        self._initdb()
 
     def initialize(self, force: bool = False) -> None:
         """Initialize the extension.
