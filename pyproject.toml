@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "airflow-ext"
-version = "0.1.0"
+version = "0.1.1"
 description = "Airflow utility extension for Meltano"
 authors = ["Meltano Team and Contributors"]
 maintainers = ["Meltano Team and Contributors"]
